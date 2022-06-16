@@ -1,0 +1,22 @@
+.bg_green {
+  background-color: #51bfad !important;
+  color: #fff !important;
+}
+
+.bg_indigo {
+  background-color: #5260ab !important;
+  color: #fff !important;
+}
+
+.text_blue {
+  color: #303a6c !important;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .relative {
+    position: relative;
+    top: -150px;
+    right: 0;
+  }
+}

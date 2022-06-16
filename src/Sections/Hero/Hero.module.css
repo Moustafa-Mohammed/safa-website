@@ -1,0 +1,21 @@
+.right_positioned {
+  position: absolute;
+  max-width: 455px;
+  max-height: 542px;
+  top: -20px;
+  right: -23px;
+
+  opacity: 0.37;
+}
+
+.left_positioned {
+  position: absolute;
+  max-width: 455px;
+  max-height: 542px;
+  left: -23px;
+  bottom: -20px;
+}
+
+.z_index_1 {
+  z-index: 1;
+}
